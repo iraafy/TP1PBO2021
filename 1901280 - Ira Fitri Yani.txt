@@ -1,0 +1,15 @@
+1901280 
+Ira Fitri Yani
+Ilmu Komputer C2
+
+Saya Ira Fitri Yani mengerjakan TP1 dalam mata kuliah DPBO untuk keberkahanNya maka saya 
+tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin.
+
+Kesulitan :
+pada proses filtering data masih kurang paham harus seperti apa
+
+Hal baru :
+mengenal code-code dan langkah-langkah dasar untuk aplikasi visual studio ini
+
+fitur yg digunakan :
+form, penggunaan panel, icon
